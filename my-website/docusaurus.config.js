@@ -119,3 +119,18 @@ const config = {
             {
               label: '搜索',
               to: '/search',
+            },
+          ],
+        },
+      ],
+      copyright: '春熊の心臟醫學 © 2023',
+    },
+    prism: {
+      theme: lightCodeTheme,
+      darkTheme: darkCodeTheme,
+    },
+  },
+};
+
+module.exports = config;
+
