@@ -13,8 +13,8 @@ const config = {
   tagline: '心臟外科的生活與挑戰',
   favicon: 'img/favicon.ico',
 
-  url: '',
-  baseUrl: '',
+  url: 'https://wilsonchao.com',
+  baseUrl: '/',
 
   organizationName: 'tnfsp',
   projectName: 'website',
