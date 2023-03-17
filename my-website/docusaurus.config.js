@@ -3,7 +3,9 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-const { ALGOLIA_API_KEYN8VTM1LPAT, 19da408b84e8b9e95c4dc2cebd0892dc, wilsocnchao.com } = process.env;
+const { ALGOLIA_API_KEY, ALGOLIA_APP_ID, WEBSITE_DOMAIN } = process.env;
+
+
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
